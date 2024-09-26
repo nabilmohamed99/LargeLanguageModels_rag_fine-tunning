@@ -1,6 +1,7 @@
 pypdf
 langchain
-chromadb 
+chromadb
 pytest
 boto3
 ollama
+sentence_transformers
