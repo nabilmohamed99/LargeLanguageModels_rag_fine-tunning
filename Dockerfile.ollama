@@ -1,0 +1,14 @@
+# Utiliser l'image de base d'Ollama
+FROM ollama/ollama
+
+# Créer un répertoire pour les modèles
+RUN mkdir -p /root/.ollama
+
+# Copier le script d'installation
+COPY install_models.sh /usr/local/bin/install_models.sh
+
+# Rendre le script exécutable
+RUN chmod +x /usr/local/bin/install_models.sh
+
+# Exécuter le script d'installation et démarrer un shell
+CMD ["/usr/local/bin/install_models.sh"]

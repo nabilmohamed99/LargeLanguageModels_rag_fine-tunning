@@ -5,3 +5,7 @@ pytest
 boto3
 ollama
 sentence_transformers
+streamlit
+langchain-community
+
+langchain_ollama
