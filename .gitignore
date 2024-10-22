@@ -8,3 +8,8 @@ chroma_db_test_20
 data
 rag_env
 chroma_db_*
+
+*.json
+*.jsonl
+*.exe
+.ipynb_checkpoints
