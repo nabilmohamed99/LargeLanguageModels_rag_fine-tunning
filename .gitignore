@@ -13,3 +13,7 @@ chroma_db_*
 *.jsonl
 *.exe
 .ipynb_checkpoints
+
+chroma_*
+
+chromedriver.exe

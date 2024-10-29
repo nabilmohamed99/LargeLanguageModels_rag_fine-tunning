@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Generative%20IA/rag_pdfs/mlruns/0/8bede99470da4829a4ea3460e3b55f85/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8bede99470da4829a4ea3460e3b55f85
+run_name: ./bert_clf_results
+run_uuid: 8bede99470da4829a4ea3460e3b55f85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729683701762
+status: 1
+tags: []
+user_id: simo_
